@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1576592749 source:c:\users\ahmed\desktop\amit\compiler\main.cpp
+	<iostream>
+	<cstring>
+	"linked_list.h"
+
+1577012205 c:\users\ahmed\desktop\amit\compiler\linked_list.h
+	<iostream>
+	<graphics.h>
+	<sstream>
+	<string>
+	<stdio.h>
+	<cstring>
+
+1576592749 source:c:\users\ahmed\desktop\new folder (4)\amit\compiler\main.cpp
+	<iostream>
+	<cstring>
+	"linked_list.h"
+
+1577023322 c:\users\ahmed\desktop\new folder (4)\amit\compiler\linked_list.h
+	<iostream>
+	<graphics.h>
+	<sstream>
+	<string>
+	<stdio.h>
+	<cstring>
+
+1576592749 source:c:\users\ahmed\desktop\documentation\compiler\main.cpp
+	<iostream>
+	<cstring>
+	"linked_list.h"
+
+1616477437 c:\users\ahmed\desktop\documentation\compiler\linked_list.h
+	<iostream>
+	<graphics.h>
+	<sstream>
+	<string>
+	<stdio.h>
+	<cstring>
+
